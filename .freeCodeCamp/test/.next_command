@@ -10,3 +10,4 @@ cp students.csv students_test.csv
 clear
 ./insert_data.sh
 ls --color=auto
+rm students_test.csv
